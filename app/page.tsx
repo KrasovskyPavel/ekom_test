@@ -25,7 +25,7 @@ export default function Home() {
   };
 
   return (
-    <Container className="flex justify-center items-center h-screen">
+    <Container className="flex justify-center items-center mt-48">
       <div className="relative flex flex-col min-w-[750px] h-[254px] border border-[#DEE2E6] shadow-lg rounded-lg py-9 px-10">
         <Title className="font-medium text-[#54595E] mb-4" size="lg" text="Начать" />
         <Title className="font-medium text-[#4F4F4F] mb-2" text="Напишите ваше имя" />
